@@ -1,0 +1,8 @@
+log_file = "C:\\Apache24\\htdocs\\logs\\cc.log"
+regex_pattern = "^(INFO|WARN|ERROR): (.*)$"
+log_levels = ["INFO", "WARN", "ERROR"]
+color_info = "blue"
+color_warn = "yellow"
+color_error = "red"
+font = "Consolas"
+font_size = 14
